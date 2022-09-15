@@ -1,1 +1,1 @@
-# ping
+# Python Ping Script
